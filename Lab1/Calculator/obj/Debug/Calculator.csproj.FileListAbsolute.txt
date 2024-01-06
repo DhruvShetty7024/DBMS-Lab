@@ -1,0 +1,3 @@
+D:\Dhruv_220953504\Lab1\Calculator\bin\Debug\Lab1.exe.config
+D:\Dhruv_220953504\Lab1\Calculator\obj\Debug\Lab1.exe
+D:\Dhruv_220953504\Lab1\Calculator\obj\Debug\Lab1.pdb
