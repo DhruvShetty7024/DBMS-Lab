@@ -1,0 +1,12 @@
+D:\Dhruv_220953504\Lab2\q2\q2\q2\bin\Debug\q2.exe.config
+D:\Dhruv_220953504\Lab2\q2\q2\q2\obj\Debug\q2.csprojResolveAssemblyReference.cache
+D:\Dhruv_220953504\Lab2\q2\q2\q2\obj\Debug\q2.Form1.resources
+D:\Dhruv_220953504\Lab2\q2\q2\q2\obj\Debug\q2.Properties.Resources.resources
+D:\Dhruv_220953504\Lab2\q2\q2\q2\obj\Debug\q2.csproj.GenerateResource.Cache
+D:\Dhruv_220953504\Lab2\q2\q2\q2\bin\Debug\q2.exe
+D:\Dhruv_220953504\Lab2\q2\q2\q2\bin\Debug\q2.pdb
+D:\Dhruv_220953504\Lab2\q2\q2\q2\obj\Debug\q2.exe
+D:\Dhruv_220953504\Lab2\q2\q2\q2\obj\Debug\q2.pdb
+D:\Dhruv_220953504\Lab2\q2\q2\q2\obj\Debug\q2.Form2.resources
+D:\Dhruv_220953504\Lab2\q2\q2\q2\obj\Debug\q2.Form3.resources
+D:\Dhruv_220953504\Lab2\q2\q2\q2\obj\Debug\q2.Form4.resources
