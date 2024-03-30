@@ -1,0 +1,10 @@
+D:\220953504\Lab7\Connection\Connection\bin\x64\Debug\Connection.exe.config
+D:\220953504\Lab7\Connection\Connection\bin\x64\Debug\Connection.exe
+D:\220953504\Lab7\Connection\Connection\bin\x64\Debug\Connection.pdb
+D:\220953504\Lab7\Connection\Connection\bin\x64\Debug\Oracle.DataAccess.dll
+D:\220953504\Lab7\Connection\Connection\obj\x64\Debug\Connection.csprojResolveAssemblyReference.cache
+D:\220953504\Lab7\Connection\Connection\obj\x64\Debug\Connection.Form1.resources
+D:\220953504\Lab7\Connection\Connection\obj\x64\Debug\Connection.Properties.Resources.resources
+D:\220953504\Lab7\Connection\Connection\obj\x64\Debug\Connection.csproj.GenerateResource.Cache
+D:\220953504\Lab7\Connection\Connection\obj\x64\Debug\Connection.exe
+D:\220953504\Lab7\Connection\Connection\obj\x64\Debug\Connection.pdb
